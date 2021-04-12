@@ -1,3 +1,8 @@
+# Vetor simples
+
+vetor <- c(7,0,8,2,7,5) 
+
+
 # Banco iris
 
 banco_iris <- iris
